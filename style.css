@@ -1,0 +1,26 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+    color:darkblue;
+    font-style: oblique;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+table tr:nth-child(even) {
+    background-color:aliceblue;
+}
+
+div{
+    font-style: oblique;
+}
